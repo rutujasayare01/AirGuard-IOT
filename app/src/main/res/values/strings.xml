@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AirApp</string>
+
+    <string-array name="locations_array">
+        <item>Select Location</item>
+        <item>Sadar</item>
+        <item>Prajapati Nagar</item>
+    </string-array>
+</resources>

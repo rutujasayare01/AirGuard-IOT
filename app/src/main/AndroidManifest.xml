@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools">
+    <!-- Internet permission for Firebase -->
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:allowBackup="true"
+        android:dataExtractionRules="@xml/data_extraction_rules"
+        android:fullBackupContent="@xml/backup_rules"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.AirQualityControl">
+        <activity
+            android:name=".activity_prediction"
+            android:exported="false" />
+        <activity
+            android:name=".item_payment_history"
+            android:exported="false" />
+        <activity
+            android:name=".activity_payment_history"
+            android:exported="false" />
+        <activity
+            android:name=".activity_payment_receipt"
+            android:exported="false" />
+        <activity
+            android:name=".activity_payment"
+            android:exported="false" />
+        <activity
+            android:name=".item_industry_payment_history"
+            android:exported="false" />
+        <activity
+            android:name=".activity_industry_paymentreceipt"
+            android:exported="false" />
+        <activity
+            android:name=".activity_industry_payment"
+            android:exported="false" />
+        <activity
+            android:name=".activity_industry_dashboard"
+            android:exported="false" /> <!-- MAIN LAUNCHER -->
+        <activity
+            android:name=".MainActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity> <!-- ADMIN -->
+        <activity
+            android:name=".activity_admin_login"
+            android:exported="false" />
+        <activity
+            android:name=".activity_admin_dashboard"
+            android:exported="false" /> <!-- USER -->
+        <activity
+            android:name=".activity_register"
+            android:exported="false" />
+        <activity
+            android:name=".activity_login"
+            android:exported="false" />
+        <activity
+            android:name=".activity_dashboard"
+            android:exported="false" />
+        <activity
+            android:name=".activity_profile"
+            android:exported="false" /> <!-- INDUSTRY -->
+        <activity
+            android:name=".activity_industry_login"
+            android:exported="false" />
+        <activity
+            android:name=".activity_industry_register"
+            android:exported="false" />
+        <activity
+            android:name=".activity_industry_option"
+            android:exported="false" /> <!-- OTHER -->
+        <activity
+            android:name=".activity_option"
+            android:exported="false" />
+        <activity
+            android:name=".RealtimeDatabase"
+            android:exported="false" />
+    </application>
+
+</manifest>

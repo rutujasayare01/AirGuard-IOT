@@ -1,0 +1,983 @@
+{
+  "AirQuality": {
+    "-On_TLFHRLSZ8gB49_Sv": {
+      "Sensor1": 1296,
+      "Sensor2": 960,
+      "Timestamp": "2026-03-13 10:04:22"
+    },
+    "-On_TLtQ0YSScqVRTeCT": {
+      "Sensor1": 1295,
+      "Sensor2": 962,
+      "Timestamp": "2026-03-13 10:04:26"
+    },
+    "-On_TMXfdpgjkofq07Xf": {
+      "Sensor1": 1315,
+      "Sensor2": 970,
+      "Timestamp": "2026-03-13 10:04:28"
+    },
+    "-On_TN8UHfridYPbo8Th": {
+      "Sensor1": 1315,
+      "Sensor2": 969,
+      "Timestamp": "2026-03-13 10:04:31"
+    },
+    "-On_TNoPfVkQrwXgCUJ6": {
+      "Sensor1": 1308,
+      "Sensor2": 967,
+      "Timestamp": "2026-03-13 10:04:33"
+    },
+    "-On_TOP2uayypZJBzFH-": {
+      "Sensor1": 1317,
+      "Sensor2": 959,
+      "Timestamp": "2026-03-13 10:04:36"
+    },
+    "-On_TP1f4hYpDoHO0hkD": {
+      "Sensor1": 1322,
+      "Sensor2": 959,
+      "Timestamp": "2026-03-13 10:04:39"
+    },
+    "-On_TPkw9a8Y2JkZ4BwW": {
+      "Sensor1": 1311,
+      "Sensor2": 964,
+      "Timestamp": "2026-03-13 10:04:42"
+    },
+    "-On_TQKnRGTGr5ZuU3J1": {
+      "Sensor1": 1319,
+      "Sensor2": 966,
+      "Timestamp": "2026-03-13 10:04:44"
+    },
+    "-On_TQzRzsJR01Qd33vV": {
+      "Sensor1": 1319,
+      "Sensor2": 960,
+      "Timestamp": "2026-03-13 10:04:47"
+    },
+    "-On_TRgRQsqt_tVZuXG8": {
+      "Sensor1": 1287,
+      "Sensor2": 957,
+      "Timestamp": "2026-03-13 10:04:50"
+    },
+    "-On_TSJS1fKU9w9IXIev": {
+      "Sensor1": 1306,
+      "Sensor2": 965,
+      "Timestamp": "2026-03-13 10:04:52"
+    },
+    "-On_TSwp_USqvgqx-xvc": {
+      "Sensor1": 1302,
+      "Sensor2": 951,
+      "Timestamp": "2026-03-13 10:04:55"
+    },
+    "-On_TTacXzXUm3sIVWqx": {
+      "Sensor1": 1297,
+      "Sensor2": 962,
+      "Timestamp": "2026-03-13 10:04:57"
+    },
+    "-On_TUI-FNYanSysTaZM": {
+      "Sensor1": 1303,
+      "Sensor2": 945,
+      "Timestamp": "2026-03-13 10:05:00"
+    },
+    "-On_TVbDU0-F5KIezpHd": {
+      "Sensor1": 1296,
+      "Sensor2": 949,
+      "Timestamp": "2026-03-13 10:05:03"
+    },
+    "-On_TXZvFnnx1HIVObnY": {
+      "Sensor1": 1306,
+      "Sensor2": 945,
+      "Timestamp": "2026-03-13 10:05:14"
+    },
+    "-On_TYBIlRwCmEzCRENI": {
+      "Sensor1": 1292,
+      "Sensor2": 940,
+      "Timestamp": "2026-03-13 10:05:16"
+    },
+    "-On_TYqmww6HNY1vRJnl": {
+      "Sensor1": 1307,
+      "Sensor2": 944,
+      "Timestamp": "2026-03-13 10:05:19"
+    },
+    "-On_TZaVFXaBGA5yxgIb": {
+      "Sensor1": 1313,
+      "Sensor2": 942,
+      "Timestamp": "2026-03-13 10:05:22"
+    },
+    "-On_T_BRU8p7AFmY7y1B": {
+      "Sensor1": 1286,
+      "Sensor2": 951,
+      "Timestamp": "2026-03-13 10:05:24"
+    },
+    "-On_T_qvxH9FIihkQHAI": {
+      "Sensor1": 1279,
+      "Sensor2": 937,
+      "Timestamp": "2026-03-13 10:05:27"
+    },
+    "-On_TaVAiurPQNVnaBrZ": {
+      "Sensor1": 1291,
+      "Sensor2": 930,
+      "Timestamp": "2026-03-13 10:05:29"
+    },
+    "-On_Tb4fX-RXkgf9mZ6S": {
+      "Sensor1": 1298,
+      "Sensor2": 943,
+      "Timestamp": "2026-03-13 10:05:32"
+    },
+    "-On_TboK-iui8jIURGxF": {
+      "Sensor1": 1290,
+      "Sensor2": 947,
+      "Timestamp": "2026-03-13 10:05:35"
+    },
+    "-On_TcTGGXAJNCPZaA3r": {
+      "Sensor1": 1293,
+      "Sensor2": 953,
+      "Timestamp": "2026-03-13 10:05:38"
+    },
+    "-On_TgN33AkcwuyTebbH": {
+      "Sensor1": 1296,
+      "Sensor2": 934,
+      "Timestamp": "2026-03-13 10:05:52"
+    },
+    "-On_Th03WKQQYhv_ikuQ": {
+      "Sensor1": 1279,
+      "Sensor2": 951,
+      "Timestamp": "2026-03-13 10:05:56"
+    },
+    "-On_ThlySMzbycYukgEi": {
+      "Sensor1": 1290,
+      "Sensor2": 939,
+      "Timestamp": "2026-03-13 10:05:59"
+    },
+    "-OnaFXyOEl5AkobHSzek": {
+      "Sensor1": 1398,
+      "Sensor2": 1284,
+      "Timestamp": "2026-03-13 13:43:33"
+    },
+    "-OnaF_csdLgWz10EiL6Z": {
+      "Sensor1": 1361,
+      "Sensor2": 1262,
+      "Timestamp": "2026-03-13 13:43:44"
+    },
+    "-OnaGNVb0sWmHul2LU-Y": {
+      "Sensor1": 1267,
+      "Sensor2": 1109,
+      "Timestamp": "2026-03-13 13:46:45"
+    },
+    "-OnaGQ1xU3iSPIlepqTd": {
+      "Sensor1": 1217,
+      "Sensor2": 1091,
+      "Timestamp": "2026-03-13 13:47:01"
+    },
+    "-OnaGSYesLInYB2pDGzL": {
+      "Sensor1": 2837,
+      "Sensor2": 1168,
+      "Timestamp": "2026-03-13 13:47:35"
+    },
+    "-OnaGTVWg3JWvGwM73Jl": {
+      "Sensor1": 4095,
+      "Sensor2": 1201,
+      "Timestamp": "2026-03-13 13:47:45"
+    },
+    "-OnaGVf_kFMNisGJt3Rq": {
+      "Sensor1": 4042,
+      "Sensor2": 1220,
+      "Timestamp": "2026-03-13 13:47:49"
+    },
+    "-OnaGW_j0PT7r0e2sJgJ": {
+      "Sensor1": 2926,
+      "Sensor2": 1692,
+      "Timestamp": "2026-03-13 13:47:58"
+    },
+    "-OnaGb18PO62dksGWieE": {
+      "Sensor1": 2599,
+      "Sensor2": 2249,
+      "Timestamp": "2026-03-13 13:48:14"
+    },
+    "-OnaGdG_TYLg4zyU-m7A": {
+      "Sensor1": 2353,
+      "Sensor2": 2156,
+      "Timestamp": "2026-03-13 13:48:24"
+    },
+    "-OnaGeAEnaY6RbilP4e_": {
+      "Sensor1": 2271,
+      "Sensor2": 1655,
+      "Timestamp": "2026-03-13 13:48:33"
+    },
+    "-OnaGf-qUyIwQeTxXOpD": {
+      "Sensor1": 2285,
+      "Sensor2": 1531,
+      "Timestamp": "2026-03-13 13:48:37"
+    },
+    "-OnaGg3Z5PeMA2nIT_UK": {
+      "Sensor1": 2138,
+      "Sensor2": 1444,
+      "Timestamp": "2026-03-13 13:48:41"
+    },
+    "-OnaGpxURzPZz5VK9jsw": {
+      "Sensor1": 1746,
+      "Sensor2": 1225,
+      "Timestamp": "2026-03-13 13:49:13"
+    },
+    "-OnaGxL1nxtDh7QaKggR": {
+      "Sensor1": 1563,
+      "Sensor2": 1142,
+      "Timestamp": "2026-03-13 13:49:41"
+    },
+    "-OnaGxSb-PT1Y0NvemST": {
+      "Sensor1": 2013,
+      "Sensor2": 1392,
+      "Timestamp": "2026-03-13 13:48:44"
+    },
+    "-OnaH--XyPBN7GOAHyZJ": {
+      "Sensor1": 1488,
+      "Sensor2": 1106,
+      "Timestamp": "2026-03-13 13:49:55"
+    },
+    "-OnaH-o86JJAPq4FgTU1": {
+      "Sensor1": 1451,
+      "Sensor2": 1091,
+      "Timestamp": "2026-03-13 13:50:06"
+    },
+    "-OnaH0REF8oJUtH_my5F": {
+      "Sensor1": 1427,
+      "Sensor2": 1081,
+      "Timestamp": "2026-03-13 13:50:09"
+    },
+    "-OnaH2qpqE80bSi-1kTl": {
+      "Sensor1": 1418,
+      "Sensor2": 1090,
+      "Timestamp": "2026-03-13 13:50:12"
+    },
+    "-OnaH3geQIxu_xKikD81": {
+      "Sensor1": 1414,
+      "Sensor2": 1072,
+      "Timestamp": "2026-03-13 13:50:22"
+    },
+    "-OnaH4WmBe4SDL_szjur": {
+      "Sensor1": 1429,
+      "Sensor2": 1061,
+      "Timestamp": "2026-03-13 13:50:25"
+    },
+    "-OnaH5SABM6b9Pg1ms-k": {
+      "Sensor1": 1418,
+      "Sensor2": 1067,
+      "Timestamp": "2026-03-13 13:50:29"
+    },
+    "-OnaH6HSN4WOUEIOVA8m": {
+      "Sensor1": 1407,
+      "Sensor2": 1055,
+      "Timestamp": "2026-03-13 13:50:32"
+    },
+    "-OnaH6ttboMwsbxNikdx": {
+      "Sensor1": 1402,
+      "Sensor2": 1059,
+      "Timestamp": "2026-03-13 13:50:36"
+    },
+    "-OnaH7VdNX_uOafJd6h2": {
+      "Sensor1": 1397,
+      "Sensor2": 1043,
+      "Timestamp": "2026-03-13 13:50:38"
+    },
+    "-OnaH8uUDzr1xui-VCld": {
+      "Sensor1": 1379,
+      "Sensor2": 1041,
+      "Timestamp": "2026-03-13 13:50:42"
+    },
+    "-OnaH9WEHM58fWz5dHRt": {
+      "Sensor1": 1363,
+      "Sensor2": 1023,
+      "Timestamp": "2026-03-13 13:50:46"
+    },
+    "-OnaHBjBaXKF7Hvg0Qq2": {
+      "Sensor1": 1358,
+      "Sensor2": 1039,
+      "Timestamp": "2026-03-13 13:50:49"
+    },
+    "-OnaHCLdCHE-b5c7KmMt": {
+      "Sensor1": 1315,
+      "Sensor2": 1009,
+      "Timestamp": "2026-03-13 13:50:58"
+    },
+    "-OnaHD5cu9vN9Qj3aYk6": {
+      "Sensor1": 1309,
+      "Sensor2": 1009,
+      "Timestamp": "2026-03-13 13:51:01"
+    },
+    "-OnaHEHEQyt_xvqbLaSU": {
+      "Sensor1": 1304,
+      "Sensor2": 1008,
+      "Timestamp": "2026-03-13 13:51:04"
+    },
+    "-OnaHFCXTGSrr96enBhI": {
+      "Sensor1": 1299,
+      "Sensor2": 1008,
+      "Timestamp": "2026-03-13 13:51:10"
+    },
+    "-OnaHJSVlT3pN7o00YVs": {
+      "Sensor1": 1280,
+      "Sensor2": 999,
+      "Timestamp": "2026-03-13 13:51:25"
+    },
+    "-OnaHK2gT6Ne4yKBMem8": {
+      "Sensor1": 1273,
+      "Sensor2": 982,
+      "Timestamp": "2026-03-13 13:51:30"
+    },
+    "-OnaHLvaGM8Gk0ROQwKI": {
+      "Sensor1": 1252,
+      "Sensor2": 976,
+      "Timestamp": "2026-03-13 13:51:32"
+    },
+    "-OnaHMesB76lzNBQ984D": {
+      "Sensor1": 1263,
+      "Sensor2": 975,
+      "Timestamp": "2026-03-13 13:51:40"
+    },
+    "-OnaHNQmXm5LfKemzUoj": {
+      "Sensor1": 1264,
+      "Sensor2": 983,
+      "Timestamp": "2026-03-13 13:51:43"
+    },
+    "-OnaHOC-DofQEVd3ZcwF": {
+      "Sensor1": 1237,
+      "Sensor2": 975,
+      "Timestamp": "2026-03-13 13:51:46"
+    },
+    "-OnaHOpd9gNevGtwdfjz": {
+      "Sensor1": 1232,
+      "Sensor2": 963,
+      "Timestamp": "2026-03-13 13:51:49"
+    },
+    "-OnaHPSXRAjqDP02ZWWU": {
+      "Sensor1": 1232,
+      "Sensor2": 965,
+      "Timestamp": "2026-03-13 13:51:52"
+    },
+    "-Onp6lym3EtdxM1EmmJp": {
+      "Sensor1": 1527,
+      "Sensor2": 2736,
+      "Timestamp": "2026-03-16 10:59:41"
+    },
+    "-Onp6mc1wWRjNeA-TWq3": {
+      "Sensor1": 1535,
+      "Sensor2": 2745,
+      "Timestamp": "2026-03-16 10:59:45"
+    },
+    "-Onp6nD9BOHlEHlysn2E": {
+      "Sensor1": 1535,
+      "Sensor2": 2736,
+      "Timestamp": "2026-03-16 10:59:48"
+    },
+    "-Onp6nouUWMRSs_ia41a": {
+      "Sensor1": 1533,
+      "Sensor2": 2733,
+      "Timestamp": "2026-03-16 10:59:50"
+    },
+    "-Onp6oQ3fC_6wATG-4rI": {
+      "Sensor1": 1533,
+      "Sensor2": 2736,
+      "Timestamp": "2026-03-16 10:59:53"
+    },
+    "-Onp6p0n1sKLJAkPJv36": {
+      "Sensor1": 1520,
+      "Sensor2": 2725,
+      "Timestamp": "2026-03-16 10:59:55"
+    },
+    "-Onp6pcGkFacOob3uB_y": {
+      "Sensor1": 1525,
+      "Sensor2": 2725,
+      "Timestamp": "2026-03-16 10:59:58"
+    },
+    "-Onp6qJvZYzQ4A3sq1ld": {
+      "Sensor1": 1521,
+      "Sensor2": 2711,
+      "Timestamp": "2026-03-16 11:00:01"
+    },
+    "-Onp6qy9HyBC5_DJHUOC": {
+      "Sensor1": 1515,
+      "Sensor2": 2727,
+      "Timestamp": "2026-03-16 11:00:03"
+    },
+    "-Onp6rZlVPeASf17oXcY": {
+      "Sensor1": 1520,
+      "Sensor2": 2706,
+      "Timestamp": "2026-03-16 11:00:06"
+    },
+    "-Onp6sDXe_y-weawlAsc": {
+      "Sensor1": 1520,
+      "Sensor2": 2704,
+      "Timestamp": "2026-03-16 11:00:08"
+    },
+    "-Onp6stgj7vpDcwnOS_4": {
+      "Sensor1": 1513,
+      "Sensor2": 2702,
+      "Timestamp": "2026-03-16 11:00:11"
+    },
+    "-Onp6tWa2dCqaexIwAtd": {
+      "Sensor1": 1506,
+      "Sensor2": 2709,
+      "Timestamp": "2026-03-16 11:00:14"
+    },
+    "-Onp6uA94iAZ5EJom3VB": {
+      "Sensor1": 1503,
+      "Sensor2": 2723,
+      "Timestamp": "2026-03-16 11:00:16"
+    },
+    "-Onp6ulHjWJ_xneqCDy2": {
+      "Sensor1": 1501,
+      "Sensor2": 2704,
+      "Timestamp": "2026-03-16 11:00:19"
+    },
+    "-Onp6vMr5ei2rJ1-RP1v": {
+      "Sensor1": 1498,
+      "Sensor2": 2699,
+      "Timestamp": "2026-03-16 11:00:21"
+    },
+    "-Onp6vy9rQpQlkfCWmnm": {
+      "Sensor1": 1491,
+      "Sensor2": 2693,
+      "Timestamp": "2026-03-16 11:00:24"
+    },
+    "-Onp6wc1ru1HrWax9BzT": {
+      "Sensor1": 1491,
+      "Sensor2": 2685,
+      "Timestamp": "2026-03-16 11:00:26"
+    },
+    "-Onp6xD9f5bRAH-cj7ue": {
+      "Sensor1": 1499,
+      "Sensor2": 2699,
+      "Timestamp": "2026-03-16 11:00:29"
+    },
+    "-Onp6xs1ksppsGtGrtRO": {
+      "Sensor1": 1491,
+      "Sensor2": 2689,
+      "Timestamp": "2026-03-16 11:00:31"
+    },
+    "-Onp6yTUAlVs4BV-frlz": {
+      "Sensor1": 1488,
+      "Sensor2": 2663,
+      "Timestamp": "2026-03-16 11:00:34"
+    },
+    "-Onp6z6sROJ6_zdi8Jq9": {
+      "Sensor1": 1481,
+      "Sensor2": 2672,
+      "Timestamp": "2026-03-16 11:00:37"
+    },
+    "-Onp6zjmmvVdDpz9x8hL": {
+      "Sensor1": 1470,
+      "Sensor2": 2681,
+      "Timestamp": "2026-03-16 11:00:39"
+    },
+    "-Onp7-NPoK_cDlBkreCc": {
+      "Sensor1": 1470,
+      "Sensor2": 2682,
+      "Timestamp": "2026-03-16 11:00:42"
+    },
+    "-Onp703mrprW1LbaQHYf": {
+      "Sensor1": 1471,
+      "Sensor2": 2672,
+      "Timestamp": "2026-03-16 11:00:45"
+    },
+    "-Onp70f9o2wT42oZWAnM": {
+      "Sensor1": 1472,
+      "Sensor2": 2674,
+      "Timestamp": "2026-03-16 11:00:47"
+    },
+    "-Onp71GkmYFlCEuimJuw": {
+      "Sensor1": 1466,
+      "Sensor2": 2663,
+      "Timestamp": "2026-03-16 11:00:49"
+    },
+    "-Onp71s1-0YphKCB9YPO": {
+      "Sensor1": 1461,
+      "Sensor2": 2660,
+      "Timestamp": "2026-03-16 11:00:52"
+    },
+    "-Onp72T9B_AgqcgrMkvO": {
+      "Sensor1": 1457,
+      "Sensor2": 2667,
+      "Timestamp": "2026-03-16 11:00:54"
+    },
+    "-Onp7388wK4adWwdaTUZ": {
+      "Sensor1": 1457,
+      "Sensor2": 2653,
+      "Timestamp": "2026-03-16 11:00:57"
+    },
+    "-Onp73iVkW9soXEyjHFF": {
+      "Sensor1": 1461,
+      "Sensor2": 2659,
+      "Timestamp": "2026-03-16 11:01:00"
+    },
+    "-Onp74N3Efrz653ZyFrk": {
+      "Sensor1": 1459,
+      "Sensor2": 2642,
+      "Timestamp": "2026-03-16 11:01:02"
+    },
+    "-Onp74yc1h6Wp05r3etj": {
+      "Sensor1": 1456,
+      "Sensor2": 2646,
+      "Timestamp": "2026-03-16 11:01:05"
+    },
+    "-Onp75iGXYZo_IMwHQjI": {
+      "Sensor1": 1450,
+      "Sensor2": 2643,
+      "Timestamp": "2026-03-16 11:01:08"
+    },
+    "-Onp76KN_kHJFpuhbLcC": {
+      "Sensor1": 1452,
+      "Sensor2": 2651,
+      "Timestamp": "2026-03-16 11:01:10"
+    },
+    "-Onp770pddoruVR_Crd2": {
+      "Sensor1": 1447,
+      "Sensor2": 2645,
+      "Timestamp": "2026-03-16 11:01:13"
+    },
+    "-Onp77f8vt9haVhR6rjf": {
+      "Sensor1": 1441,
+      "Sensor2": 2633,
+      "Timestamp": "2026-03-16 11:01:16"
+    },
+    "-Onp78NhcYe8NOPGrJ98": {
+      "Sensor1": 1442,
+      "Sensor2": 2643,
+      "Timestamp": "2026-03-16 11:01:19"
+    },
+    "-Onp78z0VAWgdgrTO3Hk": {
+      "Sensor1": 1443,
+      "Sensor2": 2627,
+      "Timestamp": "2026-03-16 11:01:21"
+    },
+    "-Onp79ZXNTphm8eEvCH9": {
+      "Sensor1": 1444,
+      "Sensor2": 2615,
+      "Timestamp": "2026-03-16 11:01:23"
+    },
+    "-Onp7AA8xIS8iB2besyk": {
+      "Sensor1": 1442,
+      "Sensor2": 2631,
+      "Timestamp": "2026-03-16 11:01:26"
+    },
+    "-Onp7AtLWKN1mXUVMfLD": {
+      "Sensor1": 1435,
+      "Sensor2": 2630,
+      "Timestamp": "2026-03-16 11:01:29"
+    },
+    "-Onp7BWXFyaBeBmNyOXH": {
+      "Sensor1": 1442,
+      "Sensor2": 2621,
+      "Timestamp": "2026-03-16 11:01:31"
+    },
+    "-Onp7CBe5t5ExfbDxbU9": {
+      "Sensor1": 1440,
+      "Sensor2": 2624,
+      "Timestamp": "2026-03-16 11:01:34"
+    },
+    "-Onp7G7EiDMi_GkpQzgp": {
+      "Sensor1": 1424,
+      "Sensor2": 2599,
+      "Timestamp": "2026-03-16 11:01:49"
+    },
+    "-Onp7GlTI3pauFbXq9c0": {
+      "Sensor1": 1419,
+      "Sensor2": 2595,
+      "Timestamp": "2026-03-16 11:01:53"
+    },
+    "-Onp7HMkqnaY6Gd-bbUE": {
+      "Sensor1": 1418,
+      "Sensor2": 2597,
+      "Timestamp": "2026-03-16 11:01:55"
+    },
+    "-Onp7I0M7IeudFxChM_P": {
+      "Sensor1": 1424,
+      "Sensor2": 2595,
+      "Timestamp": "2026-03-16 11:01:58"
+    },
+    "-Onp7IervL6KESSMSiQN": {
+      "Sensor1": 1419,
+      "Sensor2": 2599,
+      "Timestamp": "2026-03-16 11:02:01"
+    },
+    "-Onp7JHAOJcUmchIaccC": {
+      "Sensor1": 1415,
+      "Sensor2": 2599,
+      "Timestamp": "2026-03-16 11:02:03"
+    },
+    "-Onp7JrjiuISVbzELxlO": {
+      "Sensor1": 1411,
+      "Sensor2": 2595,
+      "Timestamp": "2026-03-16 11:02:06"
+    },
+    "-Onp7KWTBTZ-F1q5WP4-": {
+      "Sensor1": 1412,
+      "Sensor2": 2559,
+      "Timestamp": "2026-03-16 11:02:08"
+    },
+    "-Onp7L7AkPJewxJOnDeU": {
+      "Sensor1": 1419,
+      "Sensor2": 2586,
+      "Timestamp": "2026-03-16 11:02:11"
+    },
+    "-Onp7LlK3T7hr40Obojz": {
+      "Sensor1": 1414,
+      "Sensor2": 2559,
+      "Timestamp": "2026-03-16 11:02:13"
+    },
+    "-Onp7MNuCVPKwdJZ5XUX": {
+      "Sensor1": 1414,
+      "Sensor2": 2559,
+      "Timestamp": "2026-03-16 11:02:16"
+    },
+    "-Onp7N0UyVTQfeUdTFmh": {
+      "Sensor1": 1411,
+      "Sensor2": 2559,
+      "Timestamp": "2026-03-16 11:02:19"
+    },
+    "-Onp7Ng5U_20uwgRzhPV": {
+      "Sensor1": 1408,
+      "Sensor2": 2559,
+      "Timestamp": "2026-03-16 11:02:21"
+    },
+    "-Onp7OGJS1MsH1JIfnS-": {
+      "Sensor1": 1407,
+      "Sensor2": 2559,
+      "Timestamp": "2026-03-16 11:02:24"
+    },
+    "-Onp7OtTNSSZ5mUWxMuj": {
+      "Sensor1": 1407,
+      "Sensor2": 2586,
+      "Timestamp": "2026-03-16 11:02:26"
+    },
+    "-Onp7PWKbdb-pz0lED0f": {
+      "Sensor1": 1406,
+      "Sensor2": 2559,
+      "Timestamp": "2026-03-16 11:02:29"
+    },
+    "-Onp7QABVM706TFJ0DB0": {
+      "Sensor1": 1402,
+      "Sensor2": 2559,
+      "Timestamp": "2026-03-16 11:02:31"
+    },
+    "-Onp7QlS5oU1mjnP6Ppz": {
+      "Sensor1": 1395,
+      "Sensor2": 2559,
+      "Timestamp": "2026-03-16 11:02:34"
+    },
+    "-Onp7RTU4prAIAG2RYHe": {
+      "Sensor1": 1394,
+      "Sensor2": 2544,
+      "Timestamp": "2026-03-16 11:02:37"
+    },
+    "-Onp7S6r-fOusNhzu8kV": {
+      "Sensor1": 1399,
+      "Sensor2": 2547,
+      "Timestamp": "2026-03-16 11:02:39"
+    },
+    "-Onp7T7Vwc1pMwXBASrB": {
+      "Sensor1": 1394,
+      "Sensor2": 2544,
+      "Timestamp": "2026-03-16 11:02:42"
+    },
+    "-Onp7TnLCDBOXIdPW29e": {
+      "Sensor1": 1393,
+      "Sensor2": 2546,
+      "Timestamp": "2026-03-16 11:02:46"
+    },
+    "-Onp7UTPiSBZrEk3B535": {
+      "Sensor1": 1425,
+      "Sensor2": 2523,
+      "Timestamp": "2026-03-16 11:02:49"
+    },
+    "-Onp7V3rErg-rjl3MQva": {
+      "Sensor1": 1391,
+      "Sensor2": 2543,
+      "Timestamp": "2026-03-16 11:02:52"
+    },
+    "-Onp7VezqtfNCXjtfe5v": {
+      "Sensor1": 1391,
+      "Sensor2": 2522,
+      "Timestamp": "2026-03-16 11:02:54"
+    },
+    "-Onp7WLb0EWEenT67CXc": {
+      "Sensor1": 1392,
+      "Sensor2": 2528,
+      "Timestamp": "2026-03-16 11:02:57"
+    },
+    "-Onp7Wz4RJYYLb5y9jOu": {
+      "Sensor1": 1386,
+      "Sensor2": 2535,
+      "Timestamp": "2026-03-16 11:02:59"
+    },
+    "-Onp7XaZ41jn40QgGi3y": {
+      "Sensor1": 1387,
+      "Sensor2": 2525,
+      "Timestamp": "2026-03-16 11:03:02"
+    },
+    "-Onp7YDaW1vINBEgMxEd": {
+      "Sensor1": 1386,
+      "Sensor2": 2514,
+      "Timestamp": "2026-03-16 11:03:04"
+    },
+    "-Onp7YoqJ08lSqUYbGbz": {
+      "Sensor1": 1386,
+      "Sensor2": 2529,
+      "Timestamp": "2026-03-16 11:03:07"
+    },
+    "-Onp7ZQJjNzG2I0khYl3": {
+      "Sensor1": 1376,
+      "Sensor2": 2515,
+      "Timestamp": "2026-03-16 11:03:09"
+    },
+    "-Onp7_0jBE-uKCNkZ4-P": {
+      "Sensor1": 1381,
+      "Sensor2": 2521,
+      "Timestamp": "2026-03-16 11:03:12"
+    },
+    "-Onp7_d5HZaJaD1i1__O": {
+      "Sensor1": 1386,
+      "Sensor2": 2518,
+      "Timestamp": "2026-03-16 11:03:14"
+    },
+    "-Onp7aJr3NpO6ipBMynn": {
+      "Sensor1": 1383,
+      "Sensor2": 2512,
+      "Timestamp": "2026-03-16 11:03:17"
+    },
+    "-Onp7avHpkySyEga3qCX": {
+      "Sensor1": 1379,
+      "Sensor2": 2511,
+      "Timestamp": "2026-03-16 11:03:20"
+    },
+    "-Onp7bamVNOHvTXl4-1d": {
+      "Sensor1": 1373,
+      "Sensor2": 2511,
+      "Timestamp": "2026-03-16 11:03:22"
+    },
+    "-Onp7cD_A1Vnpe91CX9C": {
+      "Sensor1": 1374,
+      "Sensor2": 2497,
+      "Timestamp": "2026-03-16 11:03:25"
+    },
+    "-Onp7d6xxG3TRPFOj-Rh": {
+      "Sensor1": 1373,
+      "Sensor2": 2496,
+      "Timestamp": "2026-03-16 11:03:29"
+    },
+    "-Onp7dlU9sRh0OiUJc2I": {
+      "Sensor1": 1367,
+      "Sensor2": 2494,
+      "Timestamp": "2026-03-16 11:03:31"
+    },
+    "-Onp7eRcXZ7j4OIxPu5p": {
+      "Sensor1": 1367,
+      "Sensor2": 2486,
+      "Timestamp": "2026-03-16 11:03:34"
+    },
+    "-Onp7f73Qcy7eE1pUG91": {
+      "Sensor1": 1366,
+      "Sensor2": 2501,
+      "Timestamp": "2026-03-16 11:03:37"
+    },
+    "-Onp7fohjOCZ9nb5WRAh": {
+      "Sensor1": 1370,
+      "Sensor2": 2491,
+      "Timestamp": "2026-03-16 11:03:40"
+    },
+    "-Onp7gQLFDG7jJ_R9nXu": {
+      "Sensor1": 1361,
+      "Sensor2": 2491,
+      "Timestamp": "2026-03-16 11:03:42"
+    },
+    "-Onp7h3ja3ZlPuz2luyc": {
+      "Sensor1": 1363,
+      "Sensor2": 2489,
+      "Timestamp": "2026-03-16 11:03:45"
+    },
+    "-Onp7hfLK8-zqB6jZBFh": {
+      "Sensor1": 1361,
+      "Sensor2": 2485,
+      "Timestamp": "2026-03-16 11:03:47"
+    },
+    "-Onp7iGa0nyip3qyLYk0": {
+      "Sensor1": 1357,
+      "Sensor2": 2476,
+      "Timestamp": "2026-03-16 11:03:50"
+    },
+    "-Onp7is2NpdEnyXmKCeA": {
+      "Sensor1": 1364,
+      "Sensor2": 2487,
+      "Timestamp": "2026-03-16 11:03:52"
+    },
+    "-Onp7jZiFbH5JdrvY_cu": {
+      "Sensor1": 1360,
+      "Sensor2": 2478,
+      "Timestamp": "2026-03-16 11:03:55"
+    },
+    "-Onp7kGjbm5lxk3ppVP5": {
+      "Sensor1": 1351,
+      "Sensor2": 2480,
+      "Timestamp": "2026-03-16 11:03:58"
+    },
+    "-Onp7krrrzCOtoALW3Wf": {
+      "Sensor1": 1355,
+      "Sensor2": 2463,
+      "Timestamp": "2026-03-16 11:04:00"
+    },
+    "-Onp7lTHqfGM2JVNEcHh": {
+      "Sensor1": 1351,
+      "Sensor2": 2483,
+      "Timestamp": "2026-03-16 11:04:03"
+    },
+    "-Onp7mDbw1X4jn9UM-Vj": {
+      "Sensor1": 1355,
+      "Sensor2": 2463,
+      "Timestamp": "2026-03-16 11:04:06"
+    },
+    "-Onp7mqUexgTLhv8Qt09": {
+      "Sensor1": 1349,
+      "Sensor2": 2460,
+      "Timestamp": "2026-03-16 11:04:08"
+    },
+    "-Onp7nQS_eslFiis29vS": {
+      "Sensor1": 1348,
+      "Sensor2": 2459,
+      "Timestamp": "2026-03-16 11:04:11"
+    },
+    "-Onp7o4wvQi0opjjsgJ7": {
+      "Sensor1": 1349,
+      "Sensor2": 2457,
+      "Timestamp": "2026-03-16 11:04:13"
+    },
+    "-Onp7oiRfLqZFFeCf3uK": {
+      "Sensor1": 1347,
+      "Sensor2": 2449,
+      "Timestamp": "2026-03-16 11:04:16"
+    },
+    "-Onp7pJqJU1cAMza6SO3": {
+      "Sensor1": 1346,
+      "Sensor2": 2457,
+      "Timestamp": "2026-03-16 11:04:19"
+    },
+    "-Onp7pwkmSsv5aM40AmN": {
+      "Sensor1": 1331,
+      "Sensor2": 2458,
+      "Timestamp": "2026-03-16 11:04:21"
+    },
+    "-Onp7q_H-t3wazI3dwgK": {
+      "Sensor1": 1345,
+      "Sensor2": 2441,
+      "Timestamp": "2026-03-16 11:04:24"
+    },
+    "Sensor1": {
+      "-On_RHadyeJNxNx-nB8w": 1369,
+      "-On_RIRJu6_bX061yqWR": 1392,
+      "-On_RJ8ErvtmyoiNQvhF": 1389,
+      "-On_RJtW_H56fFcHCcdR": 1365,
+      "-On_RKaWPgpVuUUEYJIF": 1394,
+      "-On_RLLZUKMQ_0asHCj6": 1371,
+      "-On_RM1wXTFloXUV4-4X": 1372,
+      "-On_RPN4jUFHQdJcbW1Q": 1360,
+      "-On_RQIA-4yzVtEBCp-d": 1361,
+      "-On_RR5bX2TJGLBY6npD": 1335,
+      "-On_RRwuphJ1kXcqaMam": 1343,
+      "-On_RT22eRe6CJTwFzLG": 1335,
+      "-On_RTqd9nYdnl3iR22w": 1345,
+      "-On_RUd_JHKbcqG4qTME": 1344,
+      "-On_RVKjEZV9tF9w5rIr": 1327,
+      "-On_RXaZojN6FfEtarW5": 1341,
+      "-On_RZQQQv1tUjSiEFvQ": 1347,
+      "-On_RjAT7Zr2sTie2lsr": 1329,
+      "-On_SU34vHu9qgEF_8G4": 1862,
+      "-On_SUsixnKrN1wIrq_8": 1891,
+      "-On_SVdVUJwLY8ri1srP": 1807,
+      "-On_SWau0drkjGr_bOf7": 1712,
+      "-On_SXZXA9y3BCR3L-UH": 1664,
+      "-On_SYd4DOttcD-BSDNZ": 1603,
+      "-On_SZOVNZK0DZRPi90r": 1584,
+      "-On_S_F9oeFBJpB4kYr4": 1525,
+      "-On_Sbe5bwfhN3UUcbNw": 1460,
+      "-On_ScbouES5hwvb9PIR": 1465,
+      "-On_Sdm74JjpmQQHoXIi": 1449,
+      "-On_Ses8RmqH4C4Mozmp": 1435,
+      "-On_Sfb9cIN1Kye5k6LZ": 1414,
+      "-On_ShnkV3uq3Hbtft74": 1406,
+      "-On_SiVkBwdm9mDKU_DV": 1399,
+      "-On_SjGV3R3rPiFvAwGY": 1406,
+      "-On_SjxxIhsA_9e4LIfH": 1390,
+      "-On_Skrl1CC4Nl1_LRRG": 1381,
+      "-On_SlgJLCoWJti9Jxn_": 1385,
+      "-On_Sm_-m-tbxri9w4c_": 1369,
+      "-On_SnRs0UIAfJvCssij": 1389,
+      "-On_SoFsu1zHbDPivHfU": 1379,
+      "-On_Sv5Ea5uPYXd3aeRt": 1349,
+      "-On_Swo9YQOqpbx5nTeV": 1331,
+      "-On_T0jqTV99d0lkjJzR": 1340,
+      "-On_T1RM4khkYmtrRNkH": 1329,
+      "-On_T2FEpqvEkSkEJooP": 1353,
+      "-On_T7AN3LoDYW1__lqf": 1315,
+      "-On_T8-SmeziOr-9ePmQ": 1319,
+      "-On_T8qFDk8WEk_DjVMv": 1310,
+      "-On_TAw3dC49ZMO4zWL_": 1334,
+      "-On_TCIPAvJaTzL3Zx4V": 1331,
+      "-On_TD1fp5bM9oCDGmgj": 1328,
+      "-On_TDqE30cTjGdeF3EQ": 1328,
+      "-On_TEzHma62QMGxozm8": 1321
+    },
+    "Sensor2": {
+      "-On_RHqBYUhb_TteU8gm": 1087,
+      "-On_RIYnPRnUsPYdExAF": 1100,
+      "-On_RJJ16EJFSX11-Flz": 1093,
+      "-On_RK-KuS48jEhgvFbj": 1104,
+      "-On_RKkR44ut3czhDs8M": 1093,
+      "-On_RLSQasGOmIOSNLyv": 1095,
+      "-On_RMCYvdPuPCKYq1mP": 1088,
+      "-On_RPdxwQWJir2uLFaD": 1084,
+      "-On_RQRPF48ZpWLAUUZS": 1065,
+      "-On_RRBsL-f0UhkN2dix": 1063,
+      "-On_RSDnBk-Xfz91SW8U": 1067,
+      "-On_RTEfpAejtHjyEAH7": 1054,
+      "-On_RTz91RLEXi3BJVSN": 1055,
+      "-On_RUjH-LK6CsJIi0GI": 1055,
+      "-On_RVVaXWQSAejsmWRl": 1042,
+      "-On_RXhvKYKHJ-5A2n8c": 1061,
+      "-On_RZk3_LLYrC5fw0TL": 1040,
+      "-On_RgR7UbjqvIX9Mc8R": 1040,
+      "-On_RjIlF-RnHowh4Prp": 1019,
+      "-On_SUHTWAc36VfHH5Y_": 887,
+      "-On_SV1OAgjlexUaNTVa": 1133,
+      "-On_SW-Hm8m4pQLs6HQy": 1177,
+      "-On_SWkFfqx9y8HNCP9s": 1191,
+      "-On_SXiRrPHZbkKnJbvP": 1170,
+      "-On_SYn_GBEi23TYR_nw": 1175,
+      "-On_SZc9zoamTjCT4BgY": 1158,
+      "-On_S_M2FlqCOMz9FwsJ": 1155,
+      "-On_Sb2ibqKViA_QyqKf": 1145,
+      "-On_Sbw610MZEYr5as4g": 1125,
+      "-On_SckYwdFV0wIIh9KG": 1122,
+      "-On_SdtppZlD3ZA3zDEM": 1103,
+      "-On_Sf-SnvxvKh8hVQsl": 1090,
+      "-On_SfhSmNLQGORnhgnL": 1095,
+      "-On_ShtD9p8U3KG_zv_O": 1088,
+      "-On_SialW_mSdsvNCYJI": 1081,
+      "-On_SjM8IaJo-pDLkG2W": 1070,
+      "-On_Sk7VXNzkd9pIonSD": 1057,
+      "-On_Sl-EwKBIPFQdgPE7": 1058,
+      "-On_SlnEb1MUIve9xlyA": 1065,
+      "-On_SmnkNaT5KS46XiRW": 1066,
+      "-On_Snb0eZGsIeBFEMx5": 1053,
+      "-On_SoPc4KKPl-G1DzrA": 1042,
+      "-On_SuNval0M2NVBcrz9": 1035,
+      "-On_Svmv5qoRhKLMTutj": 1020,
+      "-On_Swth0gTREOGkxLbR": 1014,
+      "-On_T06dG2lTooSk2-i3": 1008,
+      "-On_T0rUnMvzsuXdcwk8": 996,
+      "-On_T1Yspxh3-hYyn9YL": 995,
+      "-On_T2Lk_UcRG2A02ELm": 998,
+      "-On_T5kf-nAQEl6mCu_3": 1002,
+      "-On_T7PIE1INxHYv7pz_": 990,
+      "-On_T86Xkwgx0oqs1tWE": 995,
+      "-On_T9-pnW3XeEotz26J": 988,
+      "-On_TB2U4wJnqI_FoiMF": 988,
+      "-On_TCPM9S1AxK3z6KT2": 985,
+      "-On_TD9PHVL8QpxAmLYM": 971,
+      "-On_TDx1SuWjcafttFFn": 983
+    }
+  }
+}
